@@ -1,0 +1,16 @@
+.wrapper {
+    width: 940px;
+    margin: 0 auto;
+}
+.massege{
+    width: 455px;
+    padding-bottom: 210px;
+}
+.text_form{
+    width: 455px;
+    flex-wrap: nowrap;
+}
+.form_contact{
+    display: flex;
+    flex-direction: column;
+}
